@@ -1,4 +1,4 @@
-# QE Tech Assessment for SDET
+# Assessment
 
 ## Description
 This project contains automated tests using Cucumber,RestAssured, Java, and Maven.
