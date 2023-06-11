@@ -1,0 +1,16 @@
+RequestType,Endpoint
+LIST USERS,https://reqres.in/api/users?page=2
+SINGLE USER,https://reqres.in/api/users/2
+SINGLE USER NOT FOUND,https://reqres.in/api/users/23
+LIST <RESOURCE>,https://reqres.in/api/unknown
+SINGLE <RESOURCE>,https://reqres.in/api/unknown/2
+SINGLE <RESOURCE> NOT FOUND,https://reqres.in/api/unknown/23
+CREATE,https://reqres.in/api/users
+UPDATE,https://reqres.in/api/users/2
+UPDATE,https://reqres.in/api/users/2
+DELETE,https://reqres.in/api/users/2
+REGISTER - SUCCESSFUL,https://reqres.in/api/register
+REGISTER - UNSUCCESSFUL,https://reqres.in/api/register
+LOGIN - SUCCESSFUL,https://reqres.in/api/login
+LOGIN - UNSUCCESSFUL,https://reqres.in/api/login
+DELAYED RESPONSE,https://reqres.in/api/users?delay=3

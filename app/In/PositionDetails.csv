@@ -1,0 +1,4 @@
+ID,PositionID,ISIN,Quantity
+1,Position1,ISIN1,100
+2,Position2,ISIN2,200
+3,Position3,ISIN3,300
